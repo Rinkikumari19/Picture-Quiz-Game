@@ -1,0 +1,103 @@
+[
+    {
+        "image":"https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492__340.jpg",
+        "options" : ["Hen", "Cat", "kite"],
+        "ans" :2
+    },
+    {
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy5YwvTUHzQn_bskzUwQ8JiPKCFmvbes0ePw&usqp=CAU",
+        "options" : ["Dog", "Cat", "Cow"],
+        "ans" :3
+    },
+    {
+        "image":"https://cdn.hswstatic.com/gif/animal-stereotype-orig.jpg",
+        "options" : ["Elephant", "Dog", "Crow"],
+        "ans" :2
+    },
+    {
+        "image":"https://images.unsplash.com/photo-1613141354534-3d8f4a1dcee4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YmVhdXRpZnVsJTIwYW5pbWFsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+        "options" : ["Peacock", "Duck", "Parrot"],
+        "ans" :1
+    },
+    {
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe7FaZ1c0jggZP_BwENoJHT8ah5CleWermxg&usqp=CAU",
+        "options" : ["Ox", "Rabbit", "Deer"],
+        "ans" :2
+    },
+    {
+        "image":"https://www.worldanimalprotection.org/sites/default/files/styles/1200x630/public/media/int_files/1024890_0.jpg?itok=XSB2BfYM",
+        "options" : ["Snake", "Crocodile", "Mouse"],
+        "ans" :1
+    },
+    {
+        "image":"https://www.hpcismart.com/images/website/ManChemNews/DIR_205/F_103468.jpg",
+        "options" : ["Mouse", "Dog", "Rabbit"],
+        "ans" :3
+    },
+    {
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0pelWusrlTLM_F0liQz8dorUkQXuicxzhGA&usqp=CAU",
+        "options" : ["Pig",  "Zebra", "Tiger"],
+        "ans" :1
+    },
+    {
+        "image":"https://cdn.downtoearth.org.in/library/large/2021-02-25/0.91829600_1614263117_tiger.jpg",
+        "options" : ["Tiger", "Deer", "Ox"],
+        "ans" :1
+    },
+    {
+        "image":"https://static.boredpanda.com/blog/wp-content/uploads/2015/11/animal-hybrids-19.jpg",
+        "options" : ["Dinosaur", "Zebra", "Elephant"],
+        "ans" :3
+    },
+    {
+        "image":"https://images.unsplash.com/photo-1540573133985-87b6da6d54a9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80",
+        "options" : ["Snake", "Monkey", "Crow"],
+        "ans" :2
+    },
+    {
+        "image":"https://m.media-amazon.com/images/I/410Co2+ijAS._SY355_.jpg",
+        "options" : ["Monkey", "Tiger",  "Dinosaur"],
+        "ans" :3
+    },
+    {
+        "image":"https://cdn.mos.cms.futurecdn.net/B3iinpTazCJnx4LskepukZ-1200-80.jpg",
+        "options" : ["Snake", "Crocodile", "Dinosaur"],
+        "ans" :2
+    },
+    {
+        "image":"https://www.sciencenewsforstudents.org/wp-content/uploads/2021/04/1440_bb_brown_black_bear_explainer_feat.jpg",
+        "options" : ["Deer", "Bear", "Dog"],
+        "ans" :2
+    },
+    {
+        "image":"http://c.files.bbci.co.uk/1245A/production/_103224847_horsea.png",
+        "options" : ["Elephant", "Ass", "Horse"],
+        "ans" :3
+    },
+    {
+        "image":"https://www.treehugger.com/thmb/LdwIl9seTuZ-WJ-6m4UgLGrV-6s=/1885x1414/smart/filters:no_upscale()/GettyImages-1043597638-49acd69677d7442588c1d8930d298a59.jpg",
+        "options" : [ "Ox", "Tiger", "Zebra"],
+        "ans" :3
+    },
+    {
+        "image":"https://static.toiimg.com/thumb/msid-77384105,width-1200,height-900,resizemode-4/.jpg",
+        "options" : ["Horse",  "Ass", "Goat"],
+        "ans" :2
+    },
+    {
+        "image":"https://www.peta.org/wp-content/uploads/2016/02/Goats-maximili.jpg",
+        "options" : ["Goat", "Cat", "Dog"],
+        "ans" :1
+    },
+    {
+        "image":"https://i.ytimg.com/vi/MPV2METPeJU/maxresdefault.jpg",
+        "options" : [ "Cat", "Rat", "Dog"],
+        "ans" :3
+    },
+    {
+        "image":"https://cdn.mos.cms.futurecdn.net/7GCPeSkqz3duhcXkg7E6H7-1200-80.jpg",
+        "options" : ["Rat", "Rabbit", "Squirrel"],
+        "ans" :1
+    }
+   
+]
