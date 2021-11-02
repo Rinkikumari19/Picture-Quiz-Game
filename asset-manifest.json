@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Picture-Quiz/static/css/main.84d045ce.chunk.css",
-    "main.js": "/Picture-Quiz/static/js/main.a027646d.chunk.js",
-    "main.js.map": "/Picture-Quiz/static/js/main.a027646d.chunk.js.map",
-    "runtime-main.js": "/Picture-Quiz/static/js/runtime-main.1990d355.js",
-    "runtime-main.js.map": "/Picture-Quiz/static/js/runtime-main.1990d355.js.map",
-    "static/js/2.91d425ea.chunk.js": "/Picture-Quiz/static/js/2.91d425ea.chunk.js",
-    "static/js/2.91d425ea.chunk.js.map": "/Picture-Quiz/static/js/2.91d425ea.chunk.js.map",
-    "static/js/3.c78446df.chunk.js": "/Picture-Quiz/static/js/3.c78446df.chunk.js",
-    "static/js/3.c78446df.chunk.js.map": "/Picture-Quiz/static/js/3.c78446df.chunk.js.map",
-    "index.html": "/Picture-Quiz/index.html",
-    "static/css/main.84d045ce.chunk.css.map": "/Picture-Quiz/static/css/main.84d045ce.chunk.css.map",
-    "static/js/2.91d425ea.chunk.js.LICENSE.txt": "/Picture-Quiz/static/js/2.91d425ea.chunk.js.LICENSE.txt"
+    "main.css": "/Picture-Quiz-Game/static/css/main.84d045ce.chunk.css",
+    "main.js": "/Picture-Quiz-Game/static/js/main.a027646d.chunk.js",
+    "main.js.map": "/Picture-Quiz-Game/static/js/main.a027646d.chunk.js.map",
+    "runtime-main.js": "/Picture-Quiz-Game/static/js/runtime-main.45aef3f3.js",
+    "runtime-main.js.map": "/Picture-Quiz-Game/static/js/runtime-main.45aef3f3.js.map",
+    "static/js/2.91d425ea.chunk.js": "/Picture-Quiz-Game/static/js/2.91d425ea.chunk.js",
+    "static/js/2.91d425ea.chunk.js.map": "/Picture-Quiz-Game/static/js/2.91d425ea.chunk.js.map",
+    "static/js/3.c78446df.chunk.js": "/Picture-Quiz-Game/static/js/3.c78446df.chunk.js",
+    "static/js/3.c78446df.chunk.js.map": "/Picture-Quiz-Game/static/js/3.c78446df.chunk.js.map",
+    "index.html": "/Picture-Quiz-Game/index.html",
+    "static/css/main.84d045ce.chunk.css.map": "/Picture-Quiz-Game/static/css/main.84d045ce.chunk.css.map",
+    "static/js/2.91d425ea.chunk.js.LICENSE.txt": "/Picture-Quiz-Game/static/js/2.91d425ea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1990d355.js",
+    "static/js/runtime-main.45aef3f3.js",
     "static/js/2.91d425ea.chunk.js",
     "static/css/main.84d045ce.chunk.css",
     "static/js/main.a027646d.chunk.js"
