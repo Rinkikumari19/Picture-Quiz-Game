@@ -6,7 +6,7 @@
 }
 
 h1{
-  /* margin-top: 20px; */
+  margin-top: 20px;
   margin-bottom: 30px;
 }
 .user-input{
@@ -19,6 +19,7 @@ h1{
 
 .img{
   width: 25%;
+  height: 260px;
   border: 2px solid black;
 }
 
@@ -28,6 +29,7 @@ h1{
 
 #h2{
   margin-bottom: 30px;
+  margin-top: 40px;
 }
 
 #para{
@@ -45,4 +47,10 @@ button:hover{
 
 button:active{
   background:green;
+}
+
+@media only screen and (max-width: 600px) {
+  .img{
+    width: 76%;
+  }
 }
