@@ -16,7 +16,7 @@ app.post("/data", async (req, res) => {
   };
   try {
     const createData = await data.create(info);
-    res.send(createData);
+    res.send(createData, "create data");
   } catch (err) {
     res.send(err);
   }
