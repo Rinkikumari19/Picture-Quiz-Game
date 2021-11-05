@@ -30,7 +30,7 @@ export default function User_welcome() {
   const clickFunc = () => {
     var today = Date.now()
     axios
-      .post("http://localhost:3001/data", {
+      .post("https://picture-quiz-game.herokuapp.com/data", {
         username: userName,
         date: today,
       })
